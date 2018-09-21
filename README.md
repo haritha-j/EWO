@@ -24,6 +24,8 @@ The system answers the query through voice.
 
 ## current status
 
+Planning to do hotword recognition using the snowboy library.
+
 Image cropping network has been implemented using python. We are currently porting this functionality to the javascript version of posenet in order to use a node server for the system.
 
 
