@@ -41,3 +41,8 @@ If the user shows the assistant a picture of a dog, and asks "what type of dog i
 
 Haritha Jayasinghe
 Thameera Lakshan
+
+## todo
+
+dialogflow
+  add conversation to provide additional visual feedback
